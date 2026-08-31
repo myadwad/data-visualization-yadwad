@@ -7,7 +7,7 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
-# Portfolio
+# Overview
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
@@ -24,7 +24,7 @@ Post CMU, I would like work in the international development space where I can i
 ## **Assignment: Data Visualization Critique 1**
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
-## **Assignment 3&4: Data Visualization Workshop**
+## **Assignment: Data Visualization Workshop**
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
