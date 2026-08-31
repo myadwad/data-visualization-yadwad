@@ -34,5 +34,5 @@ The topic of my final project has not yet been determined. I would like to focus
 Part III(final-project-part-three)
 
 ## Past Data Visualization Work
-- [Ukraine Index: Tracking Developments in the Ukraine War] (https://www.brookings.edu/articles/ukraine-index-tracking-developments-in-the-ukraine-war/)
+- [Ukraine Index: Tracking Developments in the Ukraine War]([url](https://www.brookings.edu/articles/ukraine-index-tracking-developments-in-the-ukraine-war/)) (https://www.brookings.edu/articles/ukraine-index-tracking-developments-in-the-ukraine-war/)
 
