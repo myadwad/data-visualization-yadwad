@@ -29,9 +29,9 @@ _Before you conduct your interviews, prepare a simple script.  Use this as a gui
 
 Questions to ask (modify these for your own interviews): 
 
-- Can you tell me what you think this is?
+- Where do your eyes go first when you look at the visualization? 
 
-- Can you describe to me what this is telling you?
+- What are your thoughts on the color choices for the different categories particularly for right-leaning and left-leaning? 
 
 - Is there anything you find surprising or confusing?
 
