@@ -33,9 +33,7 @@ Questions to ask (modify these for your own interviews):
 
 - What are your thoughts on the color choices for the different categories particularly for right-leaning and left-leaning? 
 
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
+- Are you interested in knowing the total number of terrorist attacks across all categories for each year? 
 
 - Is there anything you would change or do differently?
 
