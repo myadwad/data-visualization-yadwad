@@ -40,9 +40,9 @@ Questions to ask (modify these for your own interviews):
 Results: 
 
 
-| Question | Interview 1 | Interview 2 |
+| Question | Person 1 | Person 2 | Person 3 | 
 |----------|-------------|-------------|
-| - Where do your eyes go first when you look at the visualization?          |             |             |
+| - Where do your eyes go first when you look at the visualization?          | The multiple colors on the graph but they are not overwhelming.         |             |
 |          |             |             |
 |          |             |             |
 
