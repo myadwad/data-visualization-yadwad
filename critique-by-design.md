@@ -61,6 +61,9 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 
 I selected a visualization originally published by the Center for Strategic and International Studies (CSIS) titled [_Terrorist Attacks and Plots in the United States by Perpetrator Orientation, 1994–2025_](https://makeovermonday.vercel.app/dataset/2025w45-terrorism-and-political-violence-in-the-usa). The visualization was part of a broader report on political violence trends in the United States titled [_Left-Wing Terrorism and Political Violence in the United States: What the Data Tells Us_](https://www.csis.org/analysis/left-wing-terrorism-and-political-violence-united-states-what-data-tells-us#h2-definitions).
 
+<img width="525" height="440" alt="Screenshot 2026-09-17 at 7 45 27 PM" src="https://github.com/user-attachments/assets/0c31088b-434c-4561-bf4e-3345cec314f2" />
+
+
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
