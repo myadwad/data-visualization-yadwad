@@ -42,9 +42,13 @@ Results:
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
+| - Where do your eyes go first when you look at the visualization?          |             |             |
 |          |             |             |
 |          |             |             |
-|          |             |             |
+
+General Feedback: 
+
+
 
 Synthesis: 
 
