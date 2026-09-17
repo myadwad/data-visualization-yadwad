@@ -41,10 +41,10 @@ Results:
 
 
 | Question | Person 1 | Person 2 | Person 3
-|----------|-------------|-------------|
-|     |            |             |
-|          |             |             |
-|          |             |             |
+|----------|-------------|-------------|---------|
+|- Where do your eyes go first when you look at the visualization?  | The multiple colors on the graph but they are not overwhelming            | Similar to Person 1            |Similar to Person 1	 |
+|- What are your thoughts on the color choices for the different categories particularly for right-leaning and left-leaning?           | Did not notice that right-leaning was not red or left-leaning was not blue.   |Did not think that right or left was associated with politics so the use of purple and yellow did not affect their pereception of the data. But why are the categories 'jihadist' and 'ethnonationalist' separate?  | The use of green for 'ethnonationalist' was accidentally confused with environmental; perhaps should change to a different color. 	     |
+|          |             |             |.        |
 
 General Feedback: 
 
