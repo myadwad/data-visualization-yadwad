@@ -20,7 +20,7 @@ I selected a visualization originally published by the Center for Strategic and 
 
 
 ## Step three: Sketch a solution
-<img width="525" height="440" alt="CSIS Terrorism Redesign-1" src="https://github.com/user-attachments/assets/de902dca-e256-42b1-9046-07802b493d42" />
+<img width="525" height="640" alt="CSIS Terrorism Redesign-1" src="https://github.com/user-attachments/assets/de902dca-e256-42b1-9046-07802b493d42" />
 
 
 ## Step four: Test the solution
