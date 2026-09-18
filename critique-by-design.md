@@ -25,6 +25,9 @@ I will try to focus on three elements: The use of color for each category, Renam
 
 
 ## Step three: Sketch a solution
+
+I opted for a redesign that more distinctly depicts the temporal change in number of terrorist attacks across categories. I did not feel it was important to capture the total number of attacks per year as shown in the original visualization. I believe that the messaging should be focused on the different classifications. 
+
 <img width="525" height="640" alt="CSIS Terrorism Redesign-1" src="https://github.com/user-attachments/assets/de902dca-e256-42b1-9046-07802b493d42" />
 
 
