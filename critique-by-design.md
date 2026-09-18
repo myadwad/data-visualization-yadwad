@@ -61,7 +61,7 @@ General Feedback:
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+The feedback raised several ideas about color and data interpretation and organization. 
 
 ## Step five: build the solution
 
