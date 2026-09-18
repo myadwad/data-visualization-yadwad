@@ -71,6 +71,8 @@ I altered my use of colors for the final design. In my draft sketch, I tried to 
 
 I contemplated omitting the 2025 data since it only included attacks up till July 2025. However, I decided against this because then it would downplay the rise in left-wing terrorism. However, I have included a note in the visualization indicating this as the original CSIS authors have also done so. Because of the incomplete 2025 data, I decided to retain the phrasing of my title "right-wing attacks remain high" because prior to 2025, there were 14 right-wing attacks in 2024 which is disproportionately higher than the other categories. 
 
+I incorporated annotations of major terrorist events in U.S. history on my visualization to provide additional context to readers. While the events may not have a definitive correlation with the prevalence of terrorist attacks, it may capture readers' attention and serve as an invitation to do further research. 
+
 Overall, I believe that my redesign incorporates my peers feedback and my own review of the original CSIS data and report. While it is a simple temporal line graph, I believe it captures the message of the authors without an overwhelming use of color and amount of data. 
 
 A static version of the redesign is feature below. To view an interactive version, please use the following link: https://public.tableau.com/views/MallikasRedesignofCSISTerroristAttacksDataViz/Sheet1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
