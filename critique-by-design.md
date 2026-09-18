@@ -8,7 +8,9 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization from MakeoverMonday
 
-I selected a visualization originally published by the Center for Strategic and International Studies (CSIS) titled [_Terrorist Attacks and Plots in the United States by Perpetrator Orientation, 1994–2025_](https://makeovermonday.vercel.app/dataset/2025w45-terrorism-and-political-violence-in-the-usa). 
+I selected a visualization originally published by the Center for Strategic and International Studies (CSIS) titled [_Terrorist Attacks and Plots in the United States by Perpetrator Orientation, 1994–2025_](https://makeovermonday.vercel.app/dataset/2025w45-terrorism-and-political-violence-in-the-usa).
+
+<img width="525" height="440" alt="Screenshot 2026-09-17 at 7 45 27 PM" src="https://github.com/user-attachments/assets/0c31088b-434c-4561-bf4e-3345cec314f2" />
 
 ## Step two: the critique
 _The comments below have been submitted in the Google form_
