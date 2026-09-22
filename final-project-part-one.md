@@ -8,7 +8,7 @@
 
 The primary audience of this project will be American and international policymakers, particularly countries that have been affected by the lack of U.S. foreign assistance and are battling high rates of the aforementioned diseases. The secondary audience will be leaders at non-governmental organizations who are currently affected by the changing funding landscape but are being called upon to fill the gaps in developmental assistance. 
 
-I am interested in 
+I am interested in portraying the different perspectives 
  
 Text here...
 
