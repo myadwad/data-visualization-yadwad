@@ -4,13 +4,18 @@
 
 # Outline
 
-**High-level summary:** The dismantling of the U.S. Agency for International Development has affected progress in the achievement of Sustainable Development Goal 3.3, which aims to end AIDS, tuberculosis, malaria, and other communicable diseases across the world. The focus of the project will be identify how the decline in U.S. foreign assistance has affected global health over time (in the last one year Jan. 2025 - Sept. 2026) with a specific lens on SDG 3.3. The takeaway will be actionable steps or recommendations for policymakers and NGO executives to leverage different tools to advance progress on SDG 3.3 without heavy reliance on the United States foreign assistance. 
+**High-level summary:** The dismantling of the U.S. Agency for International Development has affected progress in the achievement of Sustainable Development Goal 3.3, which aims to end AIDS, tuberculosis, malaria, and other communicable diseases across the world. The focus of the project will be identify how the decline in U.S. foreign assistance has affected global health over time in sub-Saharan Africa (in the last one year Jan. 2025 - Sept. 2026) with a specific lens on SDG 3.3. I may narrow the scope to specific countries such as South Africa, Uganda, and Tanzania. The takeaway will be actionable steps or recommendations for policymakers and NGO executives to leverage different tools to advance progress on SDG 3.3 without heavy reliance on the United States foreign assistance. 
 
 The primary audience of this project will be American and international policymakers, particularly countries that have been affected by the lack of U.S. foreign assistance and are battling high rates of the aforementioned diseases. The secondary audience will be leaders at non-governmental organizations who are currently affected by the changing funding landscape but are being called upon to fill the gaps in developmental assistance. 
 
-I am interested in portraying the different perspectives 
+I am interested in portraying how different sub-Saharan countries, that are particularly affected by AIDS, TB, and malaria, have been afflicted by diminishing US foreign assistance, and how they are managing disease prevalence post USAID. 
+
+**The Story Arc:** The sketch below outlines the general story arc that I intend to follow in my final project. The arc will follow a temporal pattern broken down into three primary sections: _The Beginning: USAID's evisceration_, _The Middle: How Sub-Saharan African Countries are Coping_, _What Next?: How African Policymakers, NGOs, and the UN can Respond_. 
+The timeline will begin in January 2025 and end in September 2026 post outcomes of the UNGA 81 meetings. 
+
+<img width="1668" height="2157" alt="image" src="https://github.com/user-attachments/assets/a01adfc1-960d-4aac-b8c4-bd8a74f881ab" />
+
  
-Text here...
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
