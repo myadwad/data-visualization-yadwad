@@ -13,9 +13,8 @@ I am interested in portraying how different sub-Saharan countries, that are part
 **The Story Arc:** The sketch below outlines the general story arc that I intend to follow in my final project. The arc will follow a temporal pattern broken down into three primary sections: _The Beginning: USAID's evisceration_, _The Middle: How Sub-Saharan African Countries are Coping_, _What Next?: How African Policymakers, NGOs, and the UN can Respond_. 
 The timeline will begin in January 2025 and end in September 2026 post outcomes of the UNGA 81 meetings. 
 
-<img width="1668" height="2157" alt="image" src="https://github.com/user-attachments/assets/a01adfc1-960d-4aac-b8c4-bd8a74f881ab" />
+<img width="400" height="550" alt="image" src="https://github.com/user-attachments/assets/8f9c0d1f-f321-430d-9450-d1d6f5b5f8fb" />
 
- 
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
