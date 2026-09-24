@@ -21,7 +21,8 @@ The timeline will begin in January 2025 and end in September 2026 post outcomes 
 Text here...
 
 ## Initial sketches
-<img width="1668" height="2157" alt="image" src="https://github.com/user-attachments/assets/55150224-82b6-4805-b996-fbc90d375d8c" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/728ea1bb-2589-48a0-90dc-be4a2f589b7c" />
+
 
 
 Text here...
