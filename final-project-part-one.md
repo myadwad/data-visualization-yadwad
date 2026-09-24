@@ -13,11 +13,11 @@ I am interested in portraying how different sub-Saharan countries, that are part
 **The Story Arc:** The sketch below outlines the general story arc that I intend to follow in my final project. The arc will follow a temporal pattern broken down into three primary sections: _The Beginning: USAID's evisceration_, _The Middle: How Sub-Saharan African Countries are Coping_, _What Next?: How African Policymakers, NGOs, and the UN can Respond_. 
 The timeline will begin in January 2025 and end in September 2026 post outcomes of the UNGA 81 meetings. 
 
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/2c447345-2095-4c5e-8d81-c97d869ca641" />
+<img width="1700" height="1200" alt="image" src="https://github.com/user-attachments/assets/2c447345-2095-4c5e-8d81-c97d869ca641" />
 
 
 ## Initial sketches
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/728ea1bb-2589-48a0-90dc-be4a2f589b7c" />
+<img width="1700" height="1200" alt="image" src="https://github.com/user-attachments/assets/728ea1bb-2589-48a0-90dc-be4a2f589b7c" />
 
 
 
