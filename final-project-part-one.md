@@ -26,11 +26,7 @@ Text here...
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+I have included links to the primary datasets that I will be using for this project. However, as I further develop and modify the story arc, I will compile additional datasets. One challenge I have encountered is locating U.S. federal government data on foreign assistance and past USAID funding. Due to the shutdown of USAID, several websites have been removed from the internet, including [foreignassistance.gov](https://foreignassistance.gov/cd/nigeria/).
 
 | Name | URL | Description |
 |------|-----|-------------|
