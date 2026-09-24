@@ -21,7 +21,8 @@ The timeline will begin in January 2025 and end in September 2026 post outcomes 
 Text here...
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+<img width="1668" height="2157" alt="image" src="https://github.com/user-attachments/assets/55150224-82b6-4805-b996-fbc90d375d8c" />
+
 
 Text here...
 
