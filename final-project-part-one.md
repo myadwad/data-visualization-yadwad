@@ -42,6 +42,8 @@ I plan to use a combination of Shorthand and Tableau for my project. I will use 
 
 Sguazzin, Antony, and Mathabiso Ralengau. “Secretive Deals, Aggressive Demands Are New US Foreign Aid Tactics.” Bloomberg.Com, May 22, 2026. https://www.bloomberg.com/news/articles/2026-05-22/secretive-deals-aggressive-demands-are-new-us-foreign-aid-tactics.
 
+Statista. “Malaria Cases Distribution by Country.” Accessed September 23, 2026. https://www.statista.com/statistics/790174/estimated-share-of-total-malaria-cases-by-country/.
+
 Statista. “Top Countries with the Highest HIV Rates Worldwide 2025.” Accessed September 23, 2026. https://www.statista.com/statistics/270209/countries-with-the-highest-global-hiv-prevalence/.
 
 Think Global Health. “One Year Post-USAID, Global Health Funding Stuck in Limbo.” Accessed September 23, 2026. https://www.thinkglobalhealth.org/article/one-year-post-usaid-global-health-funding-stuck-in-limbo.
@@ -49,7 +51,11 @@ Think Global Health. “One Year Post-USAID, Global Health Funding Stuck in Limb
 Think Global Health. “Tracking the ‘America First’ Bilateral Health Agreements.” Accessed September 23, 2026. https://www.thinkglobalhealth.org/article/tracking-the-america-first-bilateral-health-agreements.
 
 “U.S. Assistance for Sub-Saharan Africa: An Overview.” Legislation. Accessed September 23, 2026. https://www.congress.gov/crs-product/R46368.
-World Bank Open Data. “World Bank Open Data.” Accessed September 23, 2026. https://data.worldbank.org.
+
+World Bank Open Data. “Incidence of Tuberculosis (per 100,000 People).” Accessed September 23, 2026. https://data.worldbank.org/indicator/SH.TBS.INCD.
+
+World Bank Open Data. “Incidence of Tuberculosis (per 100,000 People) - Lesotho.” Accessed September 23, 2026. https://data.worldbank.org/indicator/SH.TBS.INCD?locations=LS.
+
 
 
 ## AI acknowledgements
