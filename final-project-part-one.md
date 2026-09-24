@@ -38,7 +38,7 @@ I plan to use a combination of Shorthand and Tableau for my project. I will use 
 ## References
 “Data on the Size of the HIV Epidemic.” Accessed September 23, 2026. https://www.who.int/data/gho/data/themes/hiv-aids/data-on-the-size-of-the-hiv-aids-epidemic.
 
-“Goal 3 | Department of Economic and Social Affairs.” Accessed September 23, 2026. https://sdgs.un.org/goals/goal3#targets_and_indicators.
+“Goal 3 Department of Economic and Social Affairs.” Accessed September 23, 2026. https://sdgs.un.org/goals/goal3#targets_and_indicators.
 
 Sguazzin, Antony, and Mathabiso Ralengau. “Secretive Deals, Aggressive Demands Are New US Foreign Aid Tactics.” Bloomberg.Com, May 22, 2026. https://www.bloomberg.com/news/articles/2026-05-22/secretive-deals-aggressive-demands-are-new-us-foreign-aid-tactics.
 
