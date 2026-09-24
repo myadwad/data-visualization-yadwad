@@ -13,7 +13,8 @@ I am interested in portraying how different sub-Saharan countries, that are part
 **The Story Arc:** The sketch below outlines the general story arc that I intend to follow in my final project. The arc will follow a temporal pattern broken down into three primary sections: _The Beginning: USAID's evisceration_, _The Middle: How Sub-Saharan African Countries are Coping_, _What Next?: How African Policymakers, NGOs, and the UN can Respond_. 
 The timeline will begin in January 2025 and end in September 2026 post outcomes of the UNGA 81 meetings. 
 
-<img width="400" height="550" alt="image" src="https://github.com/user-attachments/assets/8f9c0d1f-f321-430d-9450-d1d6f5b5f8fb" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/2c447345-2095-4c5e-8d81-c97d869ca641" />
+
 
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
@@ -25,7 +26,7 @@ Text here...
 
 
 
-Text here...
+
 
 # The data
 I have included links to the primary datasets that I will be using for this project. However, as I further develop and modify the story arc, I will compile additional datasets. One challenge I have encountered is locating U.S. federal government data on foreign assistance and past USAID funding. Due to the shutdown of USAID, several websites have been removed from the internet, including [foreignassistance.gov](https://foreignassistance.gov/cd/nigeria/). Therefore, I will be relying on data from reputable international organizations, but also NGOs that track and monitor development assistance. 
