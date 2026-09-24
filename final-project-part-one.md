@@ -16,15 +16,8 @@ The timeline will begin in January 2025 and end in September 2026 post outcomes 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/2c447345-2095-4c5e-8d81-c97d869ca641" />
 
 
-
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
-
-Text here...
-
 ## Initial sketches
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/728ea1bb-2589-48a0-90dc-be4a2f589b7c" />
-
-
 
 
 
@@ -39,12 +32,25 @@ I have included links to the primary datasets that I will be using for this proj
 | U.S. Assistance for Sub-Saharan Africa: An Overview    |https://www.congress.gov/crs-product/R46368      | This Congressional Report from 2023 provides data on prior U.S. funding commitments to African nations for all aspects of development, including healthcare. This information will provide the foundational context _The Beginning_ of my story arc and can inform the _What Next_ section. 
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+> I plan to use a combination of Shorthand and Tableau for my project. I will use Tableau to create the multiple visualizations (as depicted in initial sketches) which will then be embedded into Shorthand. 
 
-Text here...
 
 ## References
-_List any references you used here._
+“Data on the Size of the HIV Epidemic.” Accessed September 23, 2026. https://www.who.int/data/gho/data/themes/hiv-aids/data-on-the-size-of-the-hiv-aids-epidemic.
+
+“Goal 3 | Department of Economic and Social Affairs.” Accessed September 23, 2026. https://sdgs.un.org/goals/goal3#targets_and_indicators.
+
+Sguazzin, Antony, and Mathabiso Ralengau. “Secretive Deals, Aggressive Demands Are New US Foreign Aid Tactics.” Bloomberg.Com, May 22, 2026. https://www.bloomberg.com/news/articles/2026-05-22/secretive-deals-aggressive-demands-are-new-us-foreign-aid-tactics.
+
+Statista. “Top Countries with the Highest HIV Rates Worldwide 2025.” Accessed September 23, 2026. https://www.statista.com/statistics/270209/countries-with-the-highest-global-hiv-prevalence/.
+
+Think Global Health. “One Year Post-USAID, Global Health Funding Stuck in Limbo.” Accessed September 23, 2026. https://www.thinkglobalhealth.org/article/one-year-post-usaid-global-health-funding-stuck-in-limbo.
+
+Think Global Health. “Tracking the ‘America First’ Bilateral Health Agreements.” Accessed September 23, 2026. https://www.thinkglobalhealth.org/article/tracking-the-america-first-bilateral-health-agreements.
+
+“U.S. Assistance for Sub-Saharan Africa: An Overview.” Legislation. Accessed September 23, 2026. https://www.congress.gov/crs-product/R46368.
+World Bank Open Data. “World Bank Open Data.” Accessed September 23, 2026. https://data.worldbank.org.
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+AI was not utilized for Part I of the final project. 
