@@ -26,7 +26,7 @@ Text here...
 Text here...
 
 # The data
-I have included links to the primary datasets that I will be using for this project. However, as I further develop and modify the story arc, I will compile additional datasets. One challenge I have encountered is locating U.S. federal government data on foreign assistance and past USAID funding. Due to the shutdown of USAID, several websites have been removed from the internet, including [foreignassistance.gov](https://foreignassistance.gov/cd/nigeria/).
+I have included links to the primary datasets that I will be using for this project. However, as I further develop and modify the story arc, I will compile additional datasets. One challenge I have encountered is locating U.S. federal government data on foreign assistance and past USAID funding. Due to the shutdown of USAID, several websites have been removed from the internet, including [foreignassistance.gov](https://foreignassistance.gov/cd/nigeria/). Therefore, I will be relying on data from reputable international organizations, but also NGOs that track and monitor development assistance. 
 
 | Name | URL | Description |
 |------|-----|-------------|
