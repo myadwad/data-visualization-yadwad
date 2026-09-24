@@ -32,7 +32,7 @@ I have included links to the primary datasets that I will be using for this proj
 | U.S. Assistance for Sub-Saharan Africa: An Overview    |https://www.congress.gov/crs-product/R46368      | This Congressional Report from 2023 provides data on prior U.S. funding commitments to African nations for all aspects of development, including healthcare. This information will provide the foundational context _The Beginning_ of my story arc and can inform the _What Next_ section. 
 
 # Method and medium
-> I plan to use a combination of Shorthand and Tableau for my project. I will use Tableau to create the multiple visualizations (as depicted in initial sketches) which will then be embedded into Shorthand. 
+I plan to use a combination of Shorthand and Tableau for my project. I will use Tableau to create the multiple visualizations (as depicted in initial sketches) which will then be embedded into Shorthand. 
 
 
 ## References
