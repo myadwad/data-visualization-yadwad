@@ -68,15 +68,13 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
+| Clarify my target audience | I have decided to change my target audience to only focus on NGO leaders. This will make my call to action more clear and improve my overall narrative by removing some substance and data visualizations which were only necessary for the policymaker audience. |
 |                                          |                                                                                 |
 |                                          |                                                                                 |
 |                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+|                                                                               |
 
-> ...include any final thoughts you have here. 
 
-Text here!
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
