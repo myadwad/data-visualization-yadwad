@@ -20,7 +20,7 @@ There will be continuous line charts demonstrating U.S. foreign assistance to ea
 **Section 4**: The Human Impact 
 This section will have quotes from affected healthcare workers and patients from South Africa, Nigeria, and Ethiopia 
 
-**Section 5: Making Progress to Fill the Gaps**
+**Section 5: Making Progress to Fill the Gaps:**
 How have countries responded to this funding shock? Many developing countries, including Nigeria and Ethiopia, have signed bilateral agreements with the United States to receive conditional healthcare assistance. 
 
 Private companies, foundations, and the NGO ecosystem has stepped up to act as stronger funders and implementation and serivce providers. 
@@ -32,19 +32,16 @@ I am struggling to determine my call to action for bother audience groups: polic
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
-Text here!
+The target audience for my project are policymakers and NGO leaders. Several of my classmates have previously or currently work in the nonprofit space. Their input will be valuable in identifying if my narrative is appealing to NGO leaders. 
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+I hope to receive feedback on the overall structure of my storyboard and the narrative that I am developing. I want to be able to distill the subject matter into an easy to understand concept and make sure that the audience cares about the issues. 
 
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
+|Deliver a clear, captivating message about the changing global health funding landscape and how it directly impacts millions of lives in sub Saharan Africa       | What is the main focus to you and what drew your attention in the introduction?                 |
+|The importance of South Africa, Nigeria, and Ethiopia      | Is it clear why I am focused on the three countries and three diseases?                 |
 |      |                  |
 
 
