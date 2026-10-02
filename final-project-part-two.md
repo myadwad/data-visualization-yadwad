@@ -42,7 +42,9 @@ I hope to receive feedback on the overall structure of my storyboard and the nar
 |------|------------------|
 |Deliver a clear, captivating message about the changing global health funding landscape and how it directly impacts millions of lives in sub Saharan Africa       | What is the main focus to you and what drew your attention in the introduction?                 |
 |The importance of South Africa, Nigeria, and Ethiopia      | Is it clear why I am focused on the three countries and three diseases?                 |
-|      |                  |
+|Create enough but not an overwhelming amount of visualizations     |Do I have too many visualizations?                   |
+|Deliver a clear call to action for both audience groups |Is my call to action too convoluted and how can I make it more concise? 
+|Does the substance of the presentation cater to my audience or do I have too much extraneous information? |
 
 
 Text here!
