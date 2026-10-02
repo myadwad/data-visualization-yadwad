@@ -54,9 +54,9 @@ I hope to receive feedback on the overall structure of my storyboard and the nar
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (Classmate) | Interview 2 (Classmate) | Interview 3 (Classmate) |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
+| What is the main focus to you and what drew your attention in the introduction? | The opening slide needs stylistic changes. Change the font color or offset the world "Health" so that it doesn't blend in with the image in the background. The 'Big Picture' slide should come before the timeline slide, because the 'Big Picture' captures your thesis statement.              |             |             |
 |                         |                                |             |             |
 |                         |                                |             |             |
 
