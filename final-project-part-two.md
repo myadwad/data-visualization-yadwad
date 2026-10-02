@@ -69,7 +69,7 @@ Text here!
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Clarify my target audience | I have decided to change my target audience to only focus on NGO leaders. This will make my call to action more clear and improve my overall narrative by removing some substance and data visualizations which were only necessary for the policymaker audience. |
-|                                          |                                                                                 |
+|Bottom Line Up Front|  The 'Big Picture' section, which asks the audience to invest their time and attention on this issue, should be right at the start of the presentation. NGO leaders already care about helping citizens and patients in their communities, so they will only care about this presentation if there is new information to share.                                                                            |
 |                                          |                                                                                 |
 |                                          |                                                                                 |
 |                                                                               |
