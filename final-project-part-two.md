@@ -1,9 +1,33 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+**Primary Audience:** African policymakers and non-governmental organizations that operate in the health sector 
 
-Text here!
+**Section 1: The Introduction and Timeline**
+The timeline of how USAID's shutdown and US withdrawal from the foreign assistance space catalyzed a global decline in global health funding and spurred crises in several developing countries, most prominently in sub-Saharan Africa. 
+
+**Section 2: Why Does this matter?**
+- The loss in global health assistance in 2025 and 2026
+- The effects on HIV/AIDS patients and access
+- The effects on tuberculosis treatment
+- The effects and increase in malaria incidence
+
+**Section 3: The Countries - South Africa, Nigeria, and Ethiopia**
+This section will have a map visualization pinpointing the three countries and incidence levels for each of the three aforementioned communicable diseases to showcase the severity of the situation. 
+
+There will be continuous line charts demonstrating U.S. foreign assistance to each of these countries and how most of the assistance was directed towards health aid. 
+
+**Section 4**: The Human Impact 
+This section will have quotes from affected healthcare workers and patients from South Africa, Nigeria, and Ethiopia 
+
+**Section 5: Making Progress to Fill the Gaps**
+How have countries responded to this funding shock? Many developing countries, including Nigeria and Ethiopia, have signed bilateral agreements with the United States to receive conditional healthcare assistance. 
+
+Private companies, foundations, and the NGO ecosystem has stepped up to act as stronger funders and implementation and serivce providers. 
+- Emphasize that the role of NGOs has been critical thus far and will continue to grow.
+
+**Section 6:** The Call to Action 
+I am struggling to determine my call to action for bother audience groups: policymakers and the NGO leaders. 
 
 # User research 
 
