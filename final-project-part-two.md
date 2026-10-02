@@ -56,7 +56,7 @@ Text here!
 
 | Questions               | Interview 1 (Classmate) | Interview 2 (Classmate) | Interview 3 (Classmate) |
 |-------------------------|--------------------------------|-------------|-------------|
-| What is the main focus to you and what drew your attention in the introduction? | The opening slide needs stylistic changes. Change the font color or offset the world "Health" so that it doesn't blend in with the image in the background. The 'Big Picture' slide should come before the timeline slide, because the 'Big Picture' captures your thesis statement.              |             |             |
+| What is the main focus to you and what drew your attention in the introduction? | The opening slide needs stylistic changes. Change the font color or offset the world "Health" so that it doesn't blend in with the image in the background. The 'Big Picture' slide should come before the timeline slide, because the 'Big Picture' captures your thesis statement.              | The opening image very quickly establishes that the presentation is about global health without having to read the full title and subtitle. The timeline should demonstrate more of a snowball effect so focus on the primary events at the start of 2025 associated with the shutdown of USAID.             |             |
 |                         |                                |             |             |
 |                         |                                |             |             |
 
