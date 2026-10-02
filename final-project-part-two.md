@@ -58,7 +58,7 @@ Text here!
 |-------------------------|--------------------------------|-------------|-------------|
 | What is the main focus to you and what drew your attention in the introduction? | The opening slide needs stylistic changes. Change the font color or offset the world "Health" so that it doesn't blend in with the image in the background. The 'Big Picture' slide should come before the timeline slide, because the 'Big Picture' captures your thesis statement.              | The opening image very quickly establishes that the presentation is about global health without having to read the full title and subtitle. The timeline should demonstrate more of a snowball effect so focus on the primary events at the start of 2025 associated with the shutdown of USAID.             | The primary topic is clear from the title slide and the timeline. But the timeline could be reformatted into an alluvial graph.             |
 |Is it clear why the presentation is focused on three specific countries and diseases?  |Not entirely. |No, but if you want to write out the explanation more in relation to the United Nations SDG that inspired the overall topic, it may become more clear. |             |Do I have too many visualizations?   |Yes, I would recommend separating the U.S. assistance graphs to better depict the funding proportions across diseases.| 
-|Is my call to action clear? | No, but I think it's because you have two target audiences - policymakers and NGO leaders. I think you should choose one and that will help clarify your call to action.|             |
+|Is my call to action clear? | No, but I think it's because you have two target audiences - policymakers and NGO leaders. I think you should choose one and that will help clarify your call to action.| You want policymakers and NGO leaders to continue being proactive and get funding from other organizations and countries apart from the U.S. But this is a little complicated.             |
 
 
 # Identified changes for Part III
@@ -77,13 +77,29 @@ Text here!
 
 
 # Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
+I have not created a moodboard but intend to while making edits to Part II.
 
 ## References
-_List any references you used here._
+“Data on the Size of the HIV Epidemic.” Accessed September 23, 2026. https://www.who.int/data/gho/data/themes/hiv-aids/data-on-the-size-of-the-hiv-aids-epidemic.
+“FA.Gov.” Accessed September 28, 2026. https://foreignassistance.gov/.
+“Global HIV Response Facing Worst Setback in Decades, UNAIDS Warns | UN News.” November 25, 2025. https://news.un.org/en/story/2025/11/1166449.
+“Goal 3 | Department of Economic and Social Affairs.” Accessed September 23, 2026. https://sdgs.un.org/goals/goal3#targets_and_indicators.
+“HIV Data and Statistics.” Accessed September 29, 2026. https://www.who.int/teams/global-hiv-hepatitis-and-stis-programmes/hiv/strategic-information/hiv-data-and-statistics.
+House, The White. “Reevaluating And Realigning United States Foreign Aid.” The White House, January 21, 2025. https://www.whitehouse.gov/presidential-actions/2025/01/reevaluating-and-realigning-united-states-foreign-aid/.
+kffmichaelp. “U.S. Foreign Aid Freeze & Dissolution of USAID: Timeline of Events.” KFF, August 3, 2026. https://www.kff.org/global-health-policy/u-s-foreign-aid-freeze-dissolution-of-usaid-timeline-of-events/.
+Loft, Philip. The UK and International Development: Global Issues for 2026. September 1, 2026. https://commonslibrary.parliament.uk/research-briefings/cbp-11000/.
+Sguazzin, Antony, and Mathabiso Ralengau. “Secretive Deals, Aggressive Demands Are New US Foreign Aid Tactics.” Bloomberg.Com, May 22, 2026. https://www.bloomberg.com/news/articles/2026-05-22/secretive-deals-aggressive-demands-are-new-us-foreign-aid-tactics.
+Statista. “Malaria Cases Distribution by Country.” Accessed September 23, 2026. https://www.statista.com/statistics/790174/estimated-share-of-total-malaria-cases-by-country/.
+Statista. “Top Countries with the Highest HIV Rates Worldwide 2025.” Accessed September 23, 2026. https://www.statista.com/statistics/270209/countries-with-the-highest-global-hiv-prevalence/.
+“The Road to 2045.” Accessed September 29, 2026. https://www.gatesfoundation.org/ideas/articles/2026-gates-foundation-annual-letter.
+Think Global Health. “One Year Post-USAID, Global Health Funding Stuck in Limbo.” Accessed September 23, 2026. https://www.thinkglobalhealth.org/article/one-year-post-usaid-global-health-funding-stuck-in-limbo.
+Think Global Health. “Tracking the ‘America First’ Bilateral Health Agreements.” Accessed September 23, 2026. https://www.thinkglobalhealth.org/article/tracking-the-america-first-bilateral-health-agreements.
+“UNAIDS Global AIDS Update 2025 | UNAIDS.” Accessed September 29, 2026. https://www.unaids.org/en/UNAIDS-global-AIDS-update-2025.
+“U.S. Assistance for Sub-Saharan Africa: An Overview.” Legislation. Accessed September 23, 2026. https://www.congress.gov/crs-product/R46368.
+Wintour, Patrick, Rowena Mason, and Peter Walker. “Keir Starmer to Carry out Largest Cut to UK Overseas Aid in History.” Politics. The Guardian, February 28, 2025. https://www.theguardian.com/politics/2025/feb/28/keir-starmer-carry-out-largest-cut-uk-overseas-aid-in-history.
+World Bank Open Data. “Incidence of Tuberculosis (per 100,000 People).” Accessed September 23, 2026. https://data.worldbank.org/indicator/SH.TBS.INCD.
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+AI was used to assist with using Tableau to create some of the data visualizations embedded in my Shorthand. 
 
