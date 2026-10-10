@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://myadwad.github.io/data-visualization-yadwad/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
 [My Final Project: Filling the Gaps in Global Health Funding: How NGOs in South Africa, Nigeria, and Ethiopia can adapt after the loss of American assistance](https://carnegiemellon.shorthandstories.com/filling-the-gaps-in-global-health-funding/index.html)
