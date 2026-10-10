@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-[My Final Project: Filling the Gaps in Global Health Funding](https://carnegiemellon.shorthandstories.com/filling-the-gaps-in-global-health-funding/index.html)
+[My Final Project: Filling the Gaps in Global Health Funding: How NGOs in South Africa, Nigeria, and Ethiopia can adapt after the loss of American assistance](https://carnegiemellon.shorthandstories.com/filling-the-gaps-in-global-health-funding/index.html)
 
 # Changes made since Part II
 I made several changes since Part II and rewrote my narrative multiple times. I redrafted my narrative and storyboards because I realized that I had too much data and too many data visualizations that were not relevant to my target audience - NGOs based in South Africa, Ethiopia, and Nigeria. (I took the advice of my critique interviewees to change my audience from policymakers AND NGO leaders to ONLY NGOs)  I had to think deeply about what visualizations would be relevant to my audience and which would have an impact. It was helpful to go back to my initial framing and class brainstorm exercises. I returned to the UN SDGs as a focal point of my narrative and as the 'Why' for this topic. SDG 3 talks about ending the epidemics of AIDS, TB, and Malaria and sub-Saharan Africa carries the highest burden of these diseases. I had to remind myself of this 'Why' during the design process. 
