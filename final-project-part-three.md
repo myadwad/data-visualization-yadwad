@@ -14,26 +14,16 @@ I found myself very invested in developing a strong call to action with feasible
 
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+I went back and forth on selecting my target audience. Initially, I started with national policymakers and NGO leaders, but based on interview feedback and I changed it to just African NGO leaders. During further research, I came to realize that a lot of NGOs and service providers that were operating on USAID funding lost capacity and operations in these countries. However, NGOs are still an important link to communities in developing countries and there are still avenues for them to remain sustainable even if it's at a smaller operating capacity (This optimism is also informed by my personal experience working in the nonprofit sector). Therefore, I honed in on a target audience of NGOs in the countries of South Africa, Nigeria, and Ethiopia. This selection of just one target audience made it easier to rehash my narrative and determine which visualizations would be the most important. 
 
-Text here!
-
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+I have listed all my references in my Shorthand. I would like to note that finding updated developmental assistance data from countries apart from the United States was harder than I expected. And with limited time to really comb through and clean the data, I had to rely on my judgement and background in public health to determine what classified as health funding from the EU for the year 2025 (this was relevant to the one visualization comparing the absolute differences in US and EU funding). The visual does not have a bar for South Africa-US funding because there was insufficient data and I did not want to misrepresent the numbers. My references relied heavily on reports from think tanks, international organizations like the World Bank and the UN, and national governments. 
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
-
-Text here!
+I used AI to help with guidance on Tableau. I struggled with some features of Tableau and therefore I asked Gemini how I could achieve certain features (ie. animation in my pie charts) given the format of my data tables. 
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
+I really enjoyed this project! I wish that I had more time to gather more data and take the time to clean it. I also wish I had more time to further build out my recommendations and maybe incorporate visualizations related to it. I used Tableau for my visualizations because I wanted to practice those skills. I struggled at times, but it was a good learning experience and I feel more confident in my abilities. I'm grateful for the in-class critique process; the feedback from my peers was very helpful in my design process. 
 
 
